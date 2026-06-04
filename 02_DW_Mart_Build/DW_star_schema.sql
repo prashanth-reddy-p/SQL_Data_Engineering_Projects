@@ -1,1 +1,2 @@
 -- creating table using star schema
+-- creating views
