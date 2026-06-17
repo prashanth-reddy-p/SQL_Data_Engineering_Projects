@@ -1,0 +1,7 @@
+dw_marts
+*.duckdb
+*.parquet
+*.csv
+
+02_DW_Mart_Build/dw_marts
+02_DW_Mart_Build/*.duckdb
